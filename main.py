@@ -1,7 +1,4 @@
-import os
 from tkinter import *
-import string
-import random
 from datetime import datetime
 import requests
 
